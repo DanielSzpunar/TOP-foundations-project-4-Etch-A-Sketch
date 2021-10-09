@@ -1,0 +1,20 @@
+h1 {
+  font-family: sans-serif;
+  font-weight: 200;
+  font-size: 3rem;
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+#container {
+  display: grid;
+  width: 600px;
+  height: 600px;
+  margin: auto;
+  border: 1px solid black;
+  
+}
+#container > div {
+  color: green;
+  
+}
